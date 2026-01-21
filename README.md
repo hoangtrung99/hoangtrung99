@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @hoangtrung99
 - 📫 How to reach me:  [Facebook](https://www.facebook.com/hoangtrung99/) | [Twitter](https://twitter.com/trungnh_)
 - [hoangtrung.dev](https://www.hoangtrung.dev/)
+- [Temporary message]
+  - If you reached out to me because you think I’m involved with the Trove project, I’d like to clarify that I’m not involved at all.
